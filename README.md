@@ -1,0 +1,1 @@
+AI-powered student app: convert voice to text, offline access, quiz generator, AI assistant, notes & reminders, exam scheduling, study guides, organized folders, student community, and recommended resources — all in one place.
